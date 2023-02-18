@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bd3</string>
+    <string name="msg">Voir les messages en console LogCat</string>
+
+</resources>
